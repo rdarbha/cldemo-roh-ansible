@@ -24,7 +24,7 @@ Quickstart: Run the demo
     sudo apt-get update
     sudo apt-get install ansible -qy
 
-    ### Run the rdnbr demo
+    ### Run the RoH demo
     git clone https://github.com/rdarbha/cldemo-roh-ansible
     cd cldemo-roh-ansible
     ansible-playbook run-demo.yml
